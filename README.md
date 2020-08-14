@@ -4,7 +4,7 @@ Python Crash Course for learning Python Programming Language in a short period b
 
 ## Python Fundamentals
 
-1.  Lecture-01: Getting Started
+1.  Lecture-01: [Getting Started](./lecture-01)
 2.  Lecture-02: Variables and Simple Data Types
 3.  Lecture-03: Introducing Lists
 4.  Lecture-04: Working with Lists
