@@ -2,6 +2,10 @@
 
 In this lecture, we are going to install `python`, setting up our programming environment and run our first python program.
 
+## Lecture Links
+
+-   Facebook Recorded Lecture Video Post: [Python Crash Course, Lecture-01: Getting Started](https://www.facebook.com/belal.cseai/videos/2364874097148992/)
+
 ## Installing Python
 
 We are going to install the latest version of `python 3`.
