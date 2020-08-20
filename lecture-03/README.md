@@ -1,6 +1,10 @@
 # Lecture-03: Introducing Lists
 এই লেকচার এ আমরা লিস্ট নিয়ে অল্প কিছু আলোচনা করব । পরবর্তী লেকচার এ আমরা লিস্ট নিয়ে আরও বিস্তারিত জানব ।
 
+## Lecture Links
+
+-   Facebook Live Event: [Python Crash Course, Lecture-03: Introducing Lists](https://www.facebook.com/events/352534579097514/)
+
 ## আলোচনার বিযয়গুলো নিম্নে উল্লেখ করা হলোঃ
 - What Is a List?
     -   Accessing Elements in a List
