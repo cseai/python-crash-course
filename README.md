@@ -8,8 +8,8 @@ Python Crash Course for learning Python Programming Language in a short period b
 2.  Lecture-02: [Variables and Simple Data Types](./lecture-02)
 3.  Lecture-03: [Introducing Lists](./lecture-03)
 4.  Lecture-04: [Working with Lists](./lecture-04)
-5.  Lecture-05: if Statements
-6.  Lecture-06: Dictionaries
+5.  Lecture-05: [if Statements](./lecture-05)
+6.  Lecture-06: [Dictionaries](./lecture-06)
 7.  Lecture-07: User Input and while Loops
 8.  Lecture-08: Functions (Part-01)
 9.  Lecture-09: Functions (Part-02)
