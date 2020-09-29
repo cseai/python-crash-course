@@ -11,7 +11,7 @@ Python Crash Course for learning Python Programming Language in a short period b
 5.  Lecture-05: [if Statements](./lecture-05)
 6.  Lecture-06: [Dictionaries](./lecture-06)
 7.  Lecture-07: [User Input and while Loops](./lecture-07)
-8.  Lecture-08: Functions (Part-01)
+8.  Lecture-08: [Functions (Part-01)](./lecture-08)
 9.  Lecture-09: Functions (Part-02)
 10. Lecture-10: Classes (Part-01)
 11. Lecture-11: Classes (Part-02)
